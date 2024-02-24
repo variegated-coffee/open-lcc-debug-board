@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "smart-lcc-rescue")(type "KiCad")(uri "${KIPRJMOD}/smart-lcc-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "PTN04050CAD")(type "KiCad")(uri "${KIPRJMOD}/PTN04050CAD/PTN04050CAD.kicad_sym")(options "")(descr ""))
+)
