@@ -2118,7 +2118,7 @@
     (property "Reference" "R2" (at 39.37 222.25 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R_Small" (at 39.37 224.79 0)
+    (property "Value" "680R" (at 39.37 224.79 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" (at 36.83 223.52 0)

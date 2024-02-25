@@ -20,7 +20,7 @@ The BOM in the file isn't complete; you'll need a few other parts, all of which 
 | SW3-SW5     | Omron B3S-1000                |                                                                  | https://www.digikey.se/en/products/detail/omron-electronics-inc-emc-div/B3S-1000/20686    |
 | SW1         | 2x DIP switch                 |                                                                  | https://www.digikey.se/en/products/detail/grayhill-inc/78B02T/726239 |
 | SW2         | 2.54 mm SPDT switch           | Can be replaced with a 2 or 3 pin header and a jumper            | https://www.digikey.se/en/products/detail/eao/09-03290-01/8733106 |
-| R2          |                               | Current limiting resistor for RP2040 RESETn | |
+| R2          | 680R Resistor                 | Current limiting resistor for RP2040 RESETn                      | https://www.digikey.se/en/products/detail/yageo/MFR-25FBF52-680R/9138201 |
 | U2          | PTN04050C Boost module        | Optional, supplies 12V to main board VIN instead of 5V.          | https://www.digikey.se/en/products/detail/texas-instruments/PTN04050CAD/864519 |
 | R7          | 1K33 Resistor                 | Only required when using PTN0405C                                | https://www.digikey.se/en/products/detail/yageo/MFR-25FBF52-1K33/13036 |
 | C5, C6      | 100 µF, 16 V electrolytic cap | Only required when using PTN04050C                               | https://www.digikey.se/en/products/detail/panasonic-electronic-components/EEA-GA1C101/2504576 |
